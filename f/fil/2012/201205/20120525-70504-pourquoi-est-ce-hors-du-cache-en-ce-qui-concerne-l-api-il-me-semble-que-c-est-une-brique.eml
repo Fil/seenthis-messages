@@ -1,0 +1,17 @@
+Message-ID: <508ea5dd-03c4-4625-a94a-4938ab2de132@seenthis.net>
+Date: Fri, 25 May 2012 14:29:53 +0200
+From: Fil <fil@localhost>
+Subject: Pourquoi est-ce hors du cache =?UTF-8?Q?=3F=20En=20ce=20qui=20concerne=20?=
+ =?UTF-8?Q?l=27API=2C=20il=20me=20semble=20que=20c=27est=20une=20brique?=
+ =?UTF-8?Q?=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/70484#message70504
+In-Reply-To: <508ea5dd-8bb8-4dee-a673-49382c5245d0@seenthis.net>\References: <508ea5dd-8bb8-4dee-a673-49382c5245d0@seenthis.net>
+
+Pourquoi est-ce hors du cache ?
+
+En ce qui concerne l'API, il me semble que c'est une brique élémentaire, il faudra en effet qu'elle soit optimisée pour supporter des accès fréquents, avec un index ou un arbre des hash connus. Mais ça ne semble pas bloquant car elle répond encore très très vite.
+
+
+-- <http://seenthis.net/messages/70484#message70504>
