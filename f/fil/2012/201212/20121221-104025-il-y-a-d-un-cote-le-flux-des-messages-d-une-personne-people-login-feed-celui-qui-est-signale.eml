@@ -1,0 +1,20 @@
+Message-ID: <50d4dd7a-75a4-49b5-aae5-2783bd13c549@seenthis.net>
+Date: Fri, 21 Dec 2012 23:06:50 +0100
+From: Fil <fil@localhost>
+Subject: il y a d'un =?UTF-8?Q?c=C3=B4t=C3=A9=20le=20flux=20des=20messages=20d=27u?=
+ =?UTF-8?Q?ne=20personne=20=28people/=24LOGIN/feed=20=E2=80=94=20celui=20q?=
+ =?UTF-8?Q?ui=20est=20signal=C3=A9=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/104023#message104025
+In-Reply-To: <50d4da79-c4cc-419b-a4dc-36e05aabe84e@seenthis.net>\References: <50d4da79-c4cc-419b-a4dc-36e05aabe84e@seenthis.net>
+
+il y a d'un côté le flux des messages d'une personne (people/$LOGIN/feed — celui qui est signalé dans la page de l'auteur) et de l'autre le flux de tous les messages suivis par la personne en question, à travers ses abonnements aux gens, aux mots-clés, aux sites (people/$LOGIN/follow/feed)…
+
+il serait d'ailleurs peut-être plus intéressant de ne pas mettre dans ce deuxième flux les messages écrits par $LOGIN ? On aurait alors :
+- $LOGIN/feed : les messages de LOGIN (+ favoris)
+- $LOGIN/follow/feed : les messages suivis par LOGIN mais pas écrits par LOGIN
+Les deux flux seraient complémentaires (seuls les messages mis en favoris figureraient éventuellement dans les deux)
+
+
+-- <http://seenthis.net/messages/104023#message104025>
