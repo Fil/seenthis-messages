@@ -1,0 +1,19 @@
+Message-ID: <50dcbecb-02c8-46c1-b7f1-1cde3224b088@seenthis.net>
+Date: Thu, 27 Dec 2012 22:34:03 +0100
+From: Fil <fil@localhost>
+Subject: le .bin est =?UTF-8?Q?d=C3=BB=20=C3=A0=20un=20bug=20chez=20cairn=2Einfo?=
+ =?UTF-8?Q?=2C=20qui=20renvoie=20un=20mime-type=20image/jpg=20alors=20que?=
+ =?UTF-8?Q?=20le=20standard=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/102662#message104643
+In-Reply-To: <50ca0352-a210-4b52-a0df-70df6adb3495@seenthis.net>\References: <50ca0352-a210-4b52-a0df-70df6adb3495@seenthis.net>
+
+le .bin est dû à un bug chez cairn.info, qui renvoie un mime-type image/jpg alors que le standard impose image/jpeg
+
+pour que ça ne se produise pas la prochaine fois, j'ai mis un contournement dans #SPIP : http://core.spip.org/projects/spip/repository/revisions/20065
+
+(bien sûr il faudra aussi que @seenthis mette à jour son SPIP) 
+
+
+-- <http://seenthis.net/messages/102662#message104643>
