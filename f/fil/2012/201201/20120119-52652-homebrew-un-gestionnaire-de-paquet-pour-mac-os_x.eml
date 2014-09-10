@@ -1,0 +1,20 @@
+Message-ID: <508ea5d3-80b4-480d-a0ef-4938ab534a9b@seenthis.net>
+Date: Thu, 19 Jan 2012 14:55:49 +0100
+From: Fil <fil@localhost>
+Subject: Homebrew, un gestionnaire de paquet pour Mac OS_X
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/52652
+
+#Homebrew, un gestionnaire de paquet pour #Mac #OS_X
+http://phollow.fr/2011/11/homebrew-un-gestionnaire-de-paquet-pour-mac-osx/
+
+❝Homebrew se veut plus simple que #Macports et dif­fère un peu dans sa manière de faire. Pour faire simple Homebrew va tou­jours essayer d'utiliser les librai­ries déjà sur le sys­tème pour com­pi­ler nos paquets. Cette manière de pro­cé­der pos­sède des avan­tages et des incon­vé­nients. L'avantage c'est que pour com­pi­ler un paquet, on ne va pas devoir com­pi­ler X librai­ries avant. L'inconvénient c'est que nos exé­cu­tables risquent gran­de­ment de plan­ter après une mise à jour de l’OS ; les librai­ries de Mac OS/X étant mises à jour.❞
+
+plus simple à installer que #fink† ou #macports :
+http://pastebin.com/gB2NjsGJ
+
+homepage: http://mxcl.github.com/homebrew/ via @alexndra
+
+
+-- <http://seenthis.net/messages/52652>
