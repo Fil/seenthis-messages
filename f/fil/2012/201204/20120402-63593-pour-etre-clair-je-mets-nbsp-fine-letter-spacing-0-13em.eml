@@ -1,0 +1,17 @@
+Message-ID: <508ea5d8-a858-45ab-98ff-49382b412a60@seenthis.net>
+Date: Mon, 02 Apr 2012 16:53:46 +0200
+From: Fil <fil@localhost>
+Subject: pour =?UTF-8?Q?=C3=AAtre=20clair=2C=20je=20mets=20=3A=20=26nbsp=20=3B=20?=
+ =?UTF-8?Q?=2Efine=20letter-spacing=20=3A=20-=30=2E=31=33em=20=3B=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/63585#message63593
+In-Reply-To: <508ea5d8-f0ac-409b-87f1-49385e00a4af@seenthis.net>\References: <508ea5d8-f0ac-409b-87f1-49385e00a4af@seenthis.net>
+
+pour être clair, je mets :
+<small class="fine">&amp;nbsp;</small>
+.fine { letter-spacing : -0.13em; }
+
+
+
+-- <http://seenthis.net/messages/63585#message63593>
