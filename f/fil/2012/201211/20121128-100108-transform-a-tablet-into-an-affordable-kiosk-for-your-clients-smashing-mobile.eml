@@ -1,0 +1,25 @@
+Message-ID: <50b67f93-b394-40fb-9550-63a26313d317@seenthis.net>
+Date: Wed, 28 Nov 2012 22:18:11 +0100
+From: Fil <fil@localhost>
+Subject: Transform A Tablet Into An Affordable Kiosk For Your Clients | Smashing Mobile
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/100108
+
+Transform A #Tablet Into An Affordable Kiosk For Your Clients | Smashing #Mobile
+http://mobile.smashingmagazine.com/2012/11/26/transform-tablet-affordable-kiosk-clients/
+
+❝Because we were working in mobile Safari on the iPad, we were able to program some cool features into the Web app. But these came with restrictions, such as:
+The features would work only in portrait orientation,
+The Web app had to be saved to the iPad’s home screen and launch from there,
+All links in the Web app would open in a new browser tab.
+We also made some other tweaks:
+Hid the browser chrome (URL bar and buttons) using <meta name="apple-mobile-web-app-capable" content="yes" />;
+Created a bookmark icon for the home screen and linked to it using <link rel="apple-touch-icon" href="/path/to/icon.png" />;
+Set the color of the status bar (the options are black, gray or black translucent) using <meta name="apple-mobile-web-app-status-bar-style" content="black" />;
+Made all events touch events, as opposed to hover events, to accommodate the limitations of the touchscreen.❞
+
+trucs et astuces pour faire une appli "#kiosque" avec un iPad
+
+
+-- <http://seenthis.net/messages/100108>
