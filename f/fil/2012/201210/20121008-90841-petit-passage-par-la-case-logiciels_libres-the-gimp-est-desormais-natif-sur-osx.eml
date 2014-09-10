@@ -1,0 +1,21 @@
+Message-ID: <508ea5e7-9dec-4e76-9d30-493848402b7d@seenthis.net>
+Date: Mon, 08 Oct 2012 18:08:36 +0200
+From: Fil <fil@localhost>
+Subject: Petit passage par la case =?UTF-8?Q?logiciels=5Flibres=20=3A=20the=20Gimp?=
+ =?UTF-8?Q?=20est=20d=C3=A9sormais=20natif=20sur=20OSX?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/90841
+
+Petit passage par la case #logiciels_libres : the #Gimp est désormais natif sur OSX
+http://www.gimp.org/downloads/
+
+et voici comment régler #LibreOffice de manière à ce que par défaut il enregistre en (par exemple) RTF
+https://www.dropbox.com/s/z02ea537hsajf5y/libreoffice-default-format.png
+https://www.dropbox.com/s/78zvuy69jlq9lgh/libreoffice-default-format-rtf.png
+
+et si on veut ouvrir tous les fichiers .doc dans LibreOffice, faire pomme-i ("lire les informations") sur un fichier Word, modifier "ouvrir avec… LibreOffice", et cliquer sur "Tout modifier…"
+https://www.dropbox.com/s/w207bnwumv747o9/libreoffice-default-format-info.png
+
+
+-- <http://seenthis.net/messages/90841>
