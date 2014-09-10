@@ -1,0 +1,17 @@
+Message-ID: <508ea5e0-c7e4-4ffa-af59-4938d624bede@seenthis.net>
+Date: Sat, 16 Jun 2012 16:42:07 +0200
+From: Fil <fil@localhost>
+Subject: seenthis si tu veux que l'image ci-dessus ne soit pas
+ =?UTF-8?Q?tronqu=C3=A9e=20il=20donner=20dans=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/76516#message76541
+In-Reply-To: <508ea5e0-d664-4566-8798-4938636d78be@seenthis.net>\References: <508ea5e0-d664-4566-8798-4938636d78be@seenthis.net>
+
+@seenthis si tu veux que l'image ci-dessus ne soit pas tronquée il donner dans config/mes_options.php une valeur plus importante à _COPIE_LOCALE_MAX_SIZE ; exemple
+> define('_COPIE_LOCALE_MAX_SIZE',33554432);  # 32 Mo
+
+(ensuite supprimer IMG/distant/png/fft-avant-ap770b.png et le microcache de ce message)
+
+
+-- <http://seenthis.net/messages/76516#message76541>
