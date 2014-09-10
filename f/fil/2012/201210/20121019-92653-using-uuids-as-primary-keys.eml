@@ -1,0 +1,19 @@
+Message-ID: <508ea5e9-6710-4250-a0a9-49381cbb8a8f@seenthis.net>
+Date: Fri, 19 Oct 2012 11:51:15 +0200
+From: Fil <fil@localhost>
+Subject: Using UUIDs as Primary Keys
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/92653
+
+Using UUIDs as Primary Keys
+http://book.cakephp.org/1.3/view/1016/Using-UUIDs-as-Primary-Keys
+
+❝#Primary_keys are normally defined as INT fields. The database will automatically increment the field, starting at 1, for each new record that gets added. Alternatively, if you specify your primary key as a CHAR(36) or BINARY(36), CakePHP will automatically generate UUIDs when new records are created.
+A #UUID is a 32 byte string separated by four hyphens, for a total of 36 characters. For example:
+550e8400-e29b-41d4-a716-446655440000
+UUIDs are designed to be unique, not only within a single table, but also across tables and databases. If you require a field to remain unique across systems then UUIDs are a great approach.❞
+
+
+
+-- <http://seenthis.net/messages/92653>
