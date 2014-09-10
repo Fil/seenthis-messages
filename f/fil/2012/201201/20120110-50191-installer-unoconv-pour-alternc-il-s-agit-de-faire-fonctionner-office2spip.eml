@@ -1,0 +1,22 @@
+Message-ID: <508ea5d2-4aa4-4159-8b20-493835497491@seenthis.net>
+Date: Tue, 10 Jan 2012 12:09:18 +0100
+From: Fil <fil@localhost>
+Subject: Installer unoconv pour alternc (il s'agit de faire fonctionner office2spip
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/50191
+
+Installer #unoconv pour #alternc
+
+(il s'agit de faire fonctionner #office2spip http://www.paris-beyrouth.org/tutoriaux-spip/article/le-convertisseur-office2spip sur alternc)
+
+1. avec aptitude on installe unoconv et le paquet openoffice qui va bien (pas besoin de headless dès lors que openoffice est récent)
+
+2. dans /var/alternc/exec.usr/ ajoute run lien symbolique vers  /usr/bin/unoconv
+
+3. dans ~www-data (dans mon cas c'est /var/www ) créer un répertoire .openoffice.org/ accessible en écriture à l'utilisateur #www-data
+
+#spip #linux
+
+
+-- <http://seenthis.net/messages/50191>
