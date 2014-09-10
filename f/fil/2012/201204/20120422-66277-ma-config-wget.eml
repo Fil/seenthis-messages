@@ -1,0 +1,29 @@
+Message-ID: <508ea5db-2b8c-4c10-a8cc-4938fd09ed1d@seenthis.net>
+Date: Sun, 22 Apr 2012 00:52:38 +0200
+From: Fil <fil@localhost>
+Subject: ma config : wget
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/66086#message66277
+In-Reply-To: <508ea5db-071c-42f6-9877-49380d717969@seenthis.net>\References: <508ea5db-071c-42f6-9877-49380d717969@seenthis.net>
+
+ma config:
+# wget http://ivan.sanchezortega.es/ttytter/deshortify.pl
+# cpan install URI::Find
+# cpan install Term::ReadLine::TTYtter
+# cat ~/.ttytterrc 
+
+❝exts=deshortify.pl
+slowpost=5
+wrap=79
+ansi=1
+track='#spip #truc'
+ssl=1
+dostream=1
+timestamp="%k:%M"
+vcheck=1
+readline="Term::ReadLine::TTYtter"❞
+
+
+
+-- <http://seenthis.net/messages/66086#message66277>
