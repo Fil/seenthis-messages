@@ -1,0 +1,21 @@
+Message-ID: <508ea5e6-2750-4fa6-8635-4938a64e4a51@seenthis.net>
+Date: Fri, 21 Sep 2012 11:06:29 +0200
+From: Fil <fil@localhost>
+Subject: une fois que tu as =?UTF-8?Q?download=C3=A9=20les=20fichiers=2C=20tu=20pe?=
+ =?UTF-8?Q?ux=20lancer=20le=20script=20en=20ligne=20de=20commande=2C=20en?=
+ =?UTF-8?Q?=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/87964#message88028
+In-Reply-To: <508ea5e6-651c-4bb7-a082-49381058174d@seenthis.net>\References: <508ea5e6-651c-4bb7-a082-49381058174d@seenthis.net>
+
+une fois que tu as downloadé les fichiers, tu peux lancer le script en ligne de commande, en faisant :
+# cd chemin/vers/le/répertoire/
+# php seen-local.php
+
+puis éventuellement pour faire une copie des pages et des documents présents dans les liens référencés:
+# php seen-download.php
+
+
+
+-- <http://seenthis.net/messages/87964#message88028>
