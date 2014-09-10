@@ -1,0 +1,17 @@
+Message-ID: <508ea5e5-4ef0-4910-b150-49386e0ed3dd@seenthis.net>
+Date: Fri, 14 Sep 2012 12:00:19 +0200
+From: Fil <fil@localhost>
+Subject: exemple d'utilisation, =?UTF-8?Q?=C3=A0=20noter=20le=20-mode=20exp=28ande?=
+ =?UTF-8?Q?d=29=20pour=20travailler=20sur=20la=20version=20non=20zipp?=
+ =?UTF-8?Q?=C3=A9e=20de=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/52712#message86803
+In-Reply-To: <508ea5d3-13f8-4aaa-bb67-4938752df76c@seenthis.net>\References: <508ea5d3-13f8-4aaa-bb67-4938752df76c@seenthis.net>
+
+exemple d'utilisation, à noter le -mode exp(anded) pour travailler sur la version non zippée de l'#ebook
+
+# java -jar …/epubcheck-3.0b5/epubcheck-3.0b5.jar -mode exp tmp/ebook/ 2>&1 |bbedit
+
+
+-- <http://seenthis.net/messages/52712#message86803>
