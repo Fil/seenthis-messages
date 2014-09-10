@@ -1,0 +1,21 @@
+Message-ID: <508ea5e7-1054-4e05-860d-49382c2cee79@seenthis.net>
+Date: Thu, 04 Oct 2012 13:21:26 +0200
+From: Fil <fil@localhost>
+Subject: le protocole est =?UTF-8?Q?bas=C3=A9=20sur=20du=20JSON=2C=20et=20pr=C3=A9?=
+ =?UTF-8?Q?voit=20=E2=9D=9Dfour=20basic=20post=20types=20=3A=20status=2C?=
+ =?UTF-8?Q?=20short=20messages=20of=20=32=35=36=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/90157#message90177
+In-Reply-To: <508ea5e7-3a00-4459-ba1f-49388d076785@seenthis.net>\References: <508ea5e7-3a00-4459-ba1f-49388d076785@seenthis.net>
+
+le protocole est basé sur du #JSON, et prévoit
+❝four basic post types: status, short messages of 256 characters or less, essay, longer form writing, photo, pictures, and album, a collection of photo posts.❞
+
+je ne sais pas où tout ça nous mène, j'ai parfois l'impression qu'on chercher à réinventer l'email…
+
+et de fait http://thimbl.net/ a montré qu'on pouvait créer le même type de réseau social en réactivant simplement le protocole finger :-)
+
+
+
+-- <http://seenthis.net/messages/90157#message90177>
