@@ -1,0 +1,22 @@
+Message-ID: <508ea5e6-1d20-4bd1-ad3f-49386dd28e9b@seenthis.net>
+Date: Thu, 27 Sep 2012 13:50:34 +0200
+From: Fil <fil@localhost>
+Subject: Bug 1055766 &#8220;grep -R doesn't automatically search amazon&#8221; - Ubuntu
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/88925
+
+Bug #1055766 “grep -R doesn't automatically search amazon” - Ubuntu
+https://bugs.launchpad.net/ubuntu/+source/gnome-terminal/+bug/1055766
+
+❝I believe the reason for this is that the grep command only searches locally for things I am actually looking for, I kind of expect the results I get from my codebase and as such it removes any sense of mystery or something new and exciting to spice up my dull geek existence. That's boring, grep -R should also search amazon, so I get more exciting results such as:
+
+Shark Season 1 Starring Steven Eckholdt, Nora Dunn, Patrick Fabian, et al.
+Amazon Instant Video
+to buy episodes: $1.99❞
+
+
+un bug report #lol contre la #publicité dans #ubuntu
+
+
+-- <http://seenthis.net/messages/88925>
