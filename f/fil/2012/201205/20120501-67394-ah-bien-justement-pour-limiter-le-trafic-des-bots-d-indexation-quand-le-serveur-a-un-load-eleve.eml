@@ -1,0 +1,23 @@
+Message-ID: <508ea5db-84d0-4353-9fb6-4938407651f7@seenthis.net>
+Date: Tue, 01 May 2012 13:44:29 +0200
+From: Fil <fil@localhost>
+Subject: ah bien justement, pour limiter le trafic des bots d'indexation (quand le
+ serveur a un load =?UTF-8?Q?=C3=A9lev=C3=A9=29=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/67378#message67394
+In-Reply-To: <508ea5db-b21c-46f5-b5b7-49386400bca7@seenthis.net>\References: <508ea5db-b21c-46f5-b5b7-49386400bca7@seenthis.net>
+
+ah bien justement, pour limiter le trafic des bots d'indexation (quand le serveur a un load élevé) j'utilisais jusqu'ici 
+> 503 Unavailable
+
+http://www.flickr.com/photos/girliemac/6540643319/in/set-72157628409467125
+
+cf. http://zone.spip.org/trac/spip-zone/browser/_core_/securite/ecran_securite.php#L239
+
+dois-je à ton avis passer à
+> 429 Too Many Requests
+http://www.flickr.com/photos/girliemac/6509400997/in/set-72157628409467125/
+
+
+-- <http://seenthis.net/messages/67378#message67394>
