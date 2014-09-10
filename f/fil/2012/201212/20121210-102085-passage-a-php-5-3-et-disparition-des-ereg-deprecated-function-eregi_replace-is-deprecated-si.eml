@@ -1,0 +1,40 @@
+Message-ID: <50c5d96d-c4d8-48cb-9435-327abf557b10@seenthis.net>
+Date: Mon, 10 Dec 2012 13:45:33 +0100
+From: Fil <fil@localhost>
+Subject: Passage =?UTF-8?Q?=C3=A0=20PHP=20=35=2E=33=20et=20disparition=20des=20ere?=
+ =?UTF-8?Q?g=20=E2=9D=9DDeprecated=20=3A=20Function=20eregi=5Freplace=28?=
+ =?UTF-8?Q?=29=20is=20deprecated=E2=9D=9E=20Si=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/102085
+
+Passage à PHP 5.3 et disparition des ereg
+
+❝Deprecated: Function eregi_replace() is deprecated❞
+
+Si votre serveur passe de PHP 5.2 à PHP 5.3, vous aurez peut-être la surprise de voir cet avertissement s'afficher partout ; c'est pas beau ! En fait les fonctions de la famille ereg_* (#ereg, eregi, ereg_replace et eregi_replace) continuent à fonctionner à l'identique, mais provoquent cette annonce, car les “Dieux de #PHP” (si une telle chose existe) ont décidé d'en finir avec elles. Pour s'en sortir :
+
+*1. Modifier les appels de fonction*
+- ereg('x'…) devient preg_match('/x/'…)
+- eregi('x'…) devient preg_match('/x/i'…)
+- ereg_replace('x'…) devient preg_replace('/x/'…)
+- eregi_replace('x'…) devient preg_replace('/x/i'…)
+
+ça peut être long à faire surtout si c'est des centaines de vieux fichiers dont on ne sait plus à quoi ça sert…
+
+*2. Masquer les avertissements*
+depuis quelques versions, par défaut #SPIP fait ceci :
+- error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED)
+il est bien évidemment possible de faire pareil dans d'autres scripts
+ou alors, sur chaque ligne concernée, ajouter un @
+- @ereg(…)
+
+*3. Quand ereg() aura disparu*
+On peut espérer, quand ereg() aura disparu (pour PHP 7?) qu'il sera possible de définir soi-même les fonctions ereg() avec un 
+     if(!function_exists('ereg')) { function ereg() { ………} }
+je n'ai pas trouvé de telle "librairie", mais ce ne sera pas forcément trop difficile à produire et à installer dans le script d'auto_prepend (là où je mets l'#écran_de_sécurité).
+
+#regexp
+
+
+-- <http://seenthis.net/messages/102085>
