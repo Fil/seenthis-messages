@@ -1,0 +1,17 @@
+Message-ID: <508ea5e6-a92c-4513-974d-49388d1db23b@seenthis.net>
+Date: Sat, 22 Sep 2012 23:36:06 +0200
+From: Fil <fil@localhost>
+Subject: Don't like Mountain Lion's Notification Center ? Quit it | MacFixIt - CNET Reviews
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/88245
+
+Don't like Mountain Lion's Notification Center? Quit it | MacFixIt - CNET Reviews
+http://reviews.cnet.com/8301-13727_7-57489010-263/dont-like-mountain-lions-notification-center-quit-it/
+
+❝sudo defaults write /System/Library/LaunchAgents/com.apple.notificationcenterui KeepAlive -bool false❞
+
+ouf #mac
+
+
+-- <http://seenthis.net/messages/88245>
