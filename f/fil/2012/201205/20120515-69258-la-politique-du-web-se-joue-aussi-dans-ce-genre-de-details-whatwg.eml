@@ -1,0 +1,22 @@
+Message-ID: <508ea5dc-301c-44c2-a310-493836f157c0@seenthis.net>
+Date: Tue, 15 May 2012 21:44:00 +0200
+From: Fil <fil@localhost>
+Subject: La politique du Web se joue aussi dans ce genre de =?UTF-8?Q?d=C3=A9tails?=
+ =?UTF-8?Q?=20=28WHATWG=29?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/69258
+
+La politique du #Web se joue aussi dans ce genre de détails (#WHATWG)
+http://timkadlec.com/2012/05/wtfwg/
+
+Le débat : comment faire des images "responsives", c'est-à-dire dont la qualité est fonction de la résolution de l'écran. Solution élaborée par un groupe de développeurs et proposée de façon "communautaire" : créer un élément <#picture> indiquant les différentes images possibles ; solution proposée par un employé d'Apple : un attribut #srcset insuffisant. Résultat : #Apple gagne.
+
+❝The developer community did everything asked of them. They followed procedure, they thoroughly discussed the options available. They were careful enough to consider what to do for browsers that wouldn’t support the element—a working #polyfill is readily available. Their solution even emulates the existing standardized audio and video elements.
+
+Meanwhile an Apple representative writes one email about a new attribute that only partially solves the problem and the 5 days later it’s in the #spec.❞
+
+via @yvg
+
+
+-- <http://seenthis.net/messages/69258>
