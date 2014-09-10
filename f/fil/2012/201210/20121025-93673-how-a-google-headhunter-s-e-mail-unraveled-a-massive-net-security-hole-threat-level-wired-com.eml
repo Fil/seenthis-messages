@@ -1,0 +1,17 @@
+Message-ID: <508ea5ea-18a0-47dd-9c8a-4938e57552d0@seenthis.net>
+Date: Thu, 25 Oct 2012 10:04:11 +0200
+From: Fil <fil@localhost>
+Subject: How a Google Headhunter's E-Mail Unraveled a Massive Net Security Hole | Threat Level | Wired.com
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/93673
+
+How a #Google Headhunter's E-Mail Unraveled a Massive Net Security Hole | Threat Level | Wired.com
+http://www.wired.com/threatlevel/2012/10/dkim-vulnerability-widespread/
+
+❝For security reasons, the #DKIM standard calls for using keys that are at least 1,024 bits in length. But Google was using a 512-bit key – which could be easily cracked with a little cloud-computing help.❞
+
+#cryptographie #sécurité #email #vol_d_identité
+
+
+-- <http://seenthis.net/messages/93673>
