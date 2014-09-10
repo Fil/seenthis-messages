@@ -1,0 +1,20 @@
+Message-ID: <508ea5dc-de48-4b2d-b2b5-49381db87a14@seenthis.net>
+Date: Thu, 17 May 2012 00:16:24 +0200
+From: Fil <fil@localhost>
+Subject: le stockage des emails sur le disque cible se fait en mode  fichier  ce qui
+ est =?UTF-8?Q?tr=C3=A8s=20sympa=20pour=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/69395#message69397
+In-Reply-To: <508ea5dc-9754-4cea-951b-4938237750ea@seenthis.net>\References: <508ea5dc-9754-4cea-951b-4938237750ea@seenthis.net>
+
+le stockage des emails sur le disque cible se fait en mode "fichier" ce qui est très sympa pour lire les données (et les modifier), mais bouffe beaucoup d'espace. D'autant qu'il y a deux fichiers par email : un fichier .eml.gz de contenu zipé, et un fichier.meta indiquant les tags, threads, etc.
+
+https://www.dropbox.com/s/7y5pygw226iit01/gmvault-db-tree.png
+
+exemple de contenu du .meta (format JSON)
+
+{"msg_id": null, "gm_id": 1402069367263435102, "labels": ["\\Inbox"], "thread_ids": 1402069367263435102, "flags": ["\\Seen"], "internal_date": 1337124745, "subject": null}
+
+
+-- <http://seenthis.net/messages/69395#message69397>
