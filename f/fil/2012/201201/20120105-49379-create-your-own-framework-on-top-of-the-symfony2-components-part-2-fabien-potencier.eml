@@ -1,0 +1,19 @@
+Message-ID: <508ea5d2-7dec-4322-9db2-4938407651f7@seenthis.net>
+Date: Thu, 05 Jan 2012 14:28:00 +0100
+From: Fil <fil@localhost>
+Subject: Create your own framework... on top of the Symfony2 Components (part 2) - Fabien Potencier
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/49379
+
+Create your own framework... on top of the Symfony2 Components (part 2) - Fabien Potencier
+http://fabien.potencier.org/article/51/create-your-own-framework-on-top-of-the-symfony2-components-part-2
+
+❝As a matter of fact, projects like #Drupal have adopted (for the upcoming version 8) the #HttpFoundation component; if it works for them, it will probably work for you. Don't reinvent the wheel.
+
+I've almost forgot to talk about one added benefit: using the HttpFoundation component is the start of better interoperability between all frameworks and applications using it (as of today Symfony2, Drupal 8, phpBB 4, Silex, Midgard CMS, Zikula, ...).❞
+
+et #SPIP utilise le #YAML de symfony
+
+
+-- <http://seenthis.net/messages/49379>
