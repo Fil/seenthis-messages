@@ -1,0 +1,18 @@
+Message-ID: <508ea5d5-f478-4ea7-a638-4938146a4828@seenthis.net>
+Date: Tue, 14 Feb 2012 10:02:49 +0100
+From: Fil <fil@localhost>
+Subject: Tumblr Architecture - 15 Billion Page Views a Month and Harder to Scale than Twitter
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/56937
+
+#Tumblr Architecture - 15 Billion Page Views a Month and Harder to Scale than #Twitter
+http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html
+
+❝Growing at over 30% a month has not been without challenges. Some reliability problems among them. It helps to realize that Tumblr operates at surprisingly huge scales: 500 million page views a day, a peak rate of ~40k requests per second, ~3TB of new data to store a day, all running on 1000+ servers.❞
+
+voilà ce qui attend #seenthis si ça continue à ce rythme…
+#mysql #web
+
+
+-- <http://seenthis.net/messages/56937>
