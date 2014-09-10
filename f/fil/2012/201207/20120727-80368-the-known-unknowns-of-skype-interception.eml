@@ -1,0 +1,19 @@
+Message-ID: <508ea5e2-7a64-4f4e-9315-49382131eeb3@seenthis.net>
+Date: Fri, 27 Jul 2012 10:24:31 +0200
+From: Fil <fil@localhost>
+Subject: The known unknowns of Skype interception
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/80368
+
+The known unknowns of #Skype interception
+http://paranoia.dubfire.net/2012/07/the-known-unknows-of-skype-interception.html
+
+❝If governments can intercept and record the encrypted communications of users (via assistance provided by Internet Service Providers), and have the encryption keys used by both ends of the conversation -- or can impersonate Skype users and perform man in the middle attacks on their conversations, then they can decrypt the voice communications without any further assistance from Skype.
+
+Do we know if this is happening? No. But that is largely because Skype really won't comment on the specifics of its interactions with governments, or the assistance it can provide. However, privacy researchers (pdf) have for many years speculated about governments compelling companies to hand over their own encryption keys or provide false certificates (pdf) for use in MiTM attacks. In such cases, when the requests come, there isn't really anything that companies can do to resist.❞
+
+#cryptographie #surveillance
+
+
+-- <http://seenthis.net/messages/80368>
