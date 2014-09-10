@@ -1,0 +1,18 @@
+Message-ID: <508ea5e6-a4d8-466b-a762-4938e139a61c@seenthis.net>
+Date: Fri, 14 Sep 2012 23:32:15 +0200
+From: Fil <fil@localhost>
+Subject: Cross-Origin Resource Sharing
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/86922
+
+Cross-Origin Resource Sharing
+http://www.w3.org/TR/cors/
+
+pour des #formulaires qui tournent en #ajax d'un serveur à un autre :
+# Access-Control-Allow-Origin: *
+
+ça permet à un #SPIP d'appeler des formulaires #CVT sur un autre SPIP (et ça roxe)
+
+
+-- <http://seenthis.net/messages/86922>
