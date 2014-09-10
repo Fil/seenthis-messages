@@ -1,0 +1,17 @@
+Message-ID: <508ea5d3-3158-4243-839f-49386984afe9@seenthis.net>
+Date: Sat, 21 Jan 2012 16:25:19 +0100
+From: Fil <fil@localhost>
+Subject: What is Amazon DynamoDB ?
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/53041
+
+What is Amazon DynamoDB?
+http://docs.amazonwebservices.com/amazondynamodb/latest/developerguide/Introduction.html
+
+❝#Amazon #DynamoDB is a fully managed #NoSQL #database service that provides fast and predictable performance with seamless scalability. If you are a developer, you can use Amazon DynamoDB to create a database table that can store and retrieve any amount of data, and serve any level of request traffic. Amazon DynamoDB automatically spreads the data and traffic for the table over a sufficient number of servers to handle the request capacity specified by the customer and the amount of data stored, while maintaining consistent and fast performance.❞
+
+#cloud
+
+
+-- <http://seenthis.net/messages/53041>
