@@ -1,0 +1,26 @@
+Message-ID: <508ea5e0-4694-4e72-ab0d-4938a5f66900@seenthis.net>
+Date: Wed, 13 Jun 2012 12:24:26 +0200
+From: Fil <fil@localhost>
+Subject: HTTP Error Status 451 proposed to show legal block
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/76189
+
+#HTTP Error Status 451 proposed to show legal block
+http://www.h-online.com/open/news/item/HTTP-Error-Status-451-proposed-to-show-legal-block-1616052.html
+
+❝Google's developer advocate Tim Bray has proposed a new HTTP Error status code to the IETF as an RFC to bring more transparency to the legal and government blocks and filters of content on the internet. (...) Bray's proposal is that the 451 code should be returned with an explanation of why the content was unavailable. He offers the following as an example of such a returned message.
+
+HTTP/1.1 451 Unavailable For Legal Reasons
+
+* This request may not be serviced in the Roman Province of
+Judea due to Lex3515, the Legem Ne Subversionem Act of AUC755,
+which disallows access to resources hosted on servers deemed
+to be operated by the Judean Liberation Front. *
+
+(...) The selection of the 451 code is inspired by the book Fahrenheit 451 by the recently deceased Ray Bradbury.❞
+
+#censure #internet
+
+
+-- <http://seenthis.net/messages/76189>
