@@ -1,0 +1,15 @@
+Message-ID: <508ea5e5-a92c-44ac-867e-4938dc2ad1a4@seenthis.net>
+Date: Wed, 05 Sep 2012 17:59:42 +0200
+From: Fil <fil@localhost>
+Subject: le =?UTF-8?Q?probl=C3=A8me=20en=20l=27occurrence=20=C3=A9tait=20un=20time?=
+ =?UTF-8?Q?out=20sur=20le=20calcul=20d=27un=20=C3=A9l=C3=A9ment=20de=20la?=
+ =?UTF-8?Q?=20home=20page=20=3B=20des=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/85326#message85332
+In-Reply-To: <508ea5e5-71e0-4253-9383-4938146a4828@seenthis.net>\References: <508ea5e5-71e0-4253-9383-4938146a4828@seenthis.net>
+
+le problème en l'occurrence était un timeout sur le calcul d'un élément de la home page ; des personnes connectées mais pas abonnées à @klaus pouvaient l'utiliser. Un simple ping ne suffirait pas à tester ce genre de cas
+
+
+-- <http://seenthis.net/messages/85326#message85332>
