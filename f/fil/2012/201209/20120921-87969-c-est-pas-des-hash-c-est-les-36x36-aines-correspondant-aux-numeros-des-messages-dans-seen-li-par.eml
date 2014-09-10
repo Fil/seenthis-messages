@@ -1,0 +1,15 @@
+Message-ID: <508ea5e6-fb14-4117-b01d-4938f7078267@seenthis.net>
+Date: Fri, 21 Sep 2012 01:03:54 +0200
+From: Fil <fil@localhost>
+Subject: C'est pas des hash c'est les 36x36-aines correspondant aux
+ =?UTF-8?Q?num=C3=A9ros=20des=20messages=20dans=20seen=2Eli=20=3A=20par?=
+ =?UTF-8?Q?=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/87964#message87969
+In-Reply-To: <508ea5e6-651c-4bb7-a082-49381058174d@seenthis.net>\References: <508ea5e6-651c-4bb7-a082-49381058174d@seenthis.net>
+
+C'est pas des hash c'est les 36x36-aines correspondant aux numéros des messages dans seen.li : par exemple ce message a le numéro 1vvg, il va dans le répertoire 1v/ (si on met tout à plat, le filesystem finira par exploser).
+
+
+-- <http://seenthis.net/messages/87964#message87969>
