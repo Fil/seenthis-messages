@@ -1,0 +1,14 @@
+Message-ID: <508ea5e0-0c7c-44d2-833b-49387715e29c@seenthis.net>
+Date: Tue, 12 Jun 2012 23:15:55 +0200
+From: Fil <fil@localhost>
+Subject: une approche concurrente de wkhtmltopdf est wkpdf (
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/5369#message76154
+In-Reply-To: <508ea5bd-89ec-46a4-bb2d-4938ae7830db@seenthis.net>\References: <508ea5bd-89ec-46a4-bb2d-4938ae7830db@seenthis.net>
+
+une approche concurrente de #wkhtmltopdf est #wkpdf (http://plessl.github.com/wkpdf/), qui fait grosso modo la même chose. autre possibilité, #princexml, qui permet en outre d'utiliser les CSS3 pour gérer les numéros de page et faire de "vrais" livres
+#ebooks #pdf
+
+
+-- <http://seenthis.net/messages/5369#message76154>
