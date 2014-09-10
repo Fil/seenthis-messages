@@ -1,0 +1,26 @@
+Message-ID: <508ea5e5-d43c-4e8c-a398-4938237750ea@seenthis.net>
+Date: Tue, 11 Sep 2012 20:48:39 +0200
+From: Fil <fil@localhost>
+Subject: rsvg - Unix Command
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/86415
+
+rsvg - Unix Command
+http://linux.about.com/library/cmd/blcmdl1_rsvg.htm
+
+❝Turn #SVG files into raster images❞
+
+# rsvg image.svg image.png
+
+installation sur Debian :
+# apt-get install librsvg2-bin 
+
+sur Mac OS X :
+# port install imagemagick +rsvg
+# rsvg-convert image.svg -o image.png
+
+#convertisseur #images
+
+
+-- <http://seenthis.net/messages/86415>
