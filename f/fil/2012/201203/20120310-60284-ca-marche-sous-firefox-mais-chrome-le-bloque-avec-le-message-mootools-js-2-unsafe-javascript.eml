@@ -1,0 +1,19 @@
+Message-ID: <508ea5d7-b478-439a-8b6f-4938e6546205@seenthis.net>
+Date: Sat, 10 Mar 2012 08:44:11 +0100
+From: Fil <fil@localhost>
+Subject: Ca marche sous Firefox mais Chrome le bloque avec le message :
+ =?UTF-8?Q?=E2=9D=9Dmootools=2Ejs=3A=32=20Unsafe=20JavaScript=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/60258#message60284
+In-Reply-To: <508ea5d7-57f0-45b8-a082-49383ec72d4a@seenthis.net>\References: <508ea5d7-57f0-45b8-a082-49383ec72d4a@seenthis.net>
+
+Ca marche sous Firefox mais Chrome le bloque avec le message :
+❝mootools.js:2
+Unsafe JavaScript attempt to access frame with URL http://seenthis.net/messages/60258#message60279 from frame with URL http://play.official.fm/tracks/353113?fairplayer=small. Domains, protocols and ports must match.
+Swiff.Swiff.Class.Implementsmootools.js:2
+(anonymous function)❞
+
+
+
+-- <http://seenthis.net/messages/60258#message60284>
