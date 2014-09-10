@@ -1,0 +1,20 @@
+Message-ID: <508ea5d8-307c-467c-8a1c-49382dacd8d8@seenthis.net>
+Date: Fri, 30 Mar 2012 14:25:36 +0200
+From: Fil <fil@localhost>
+Subject: Frontend SPOF in Beijing | High Performance Web Sites
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/63252
+
+Frontend SPOF in Beijing | High Performance Web Sites
+http://www.stevesouders.com/blog/2012/03/28/frontend-spof-in-beijing/
+
+des sites peuvent se bloquer totalement à cause de scripts synchrones chargés depuis twitter etc, si ces sites sont censurés (firewall d'entreprise ou de pays).
+
+des conseils aussi pour ne pas trop avoir de problèmes d'affichage avec @font-face :
+http://www.stevesouders.com/blog/2009/10/13/font-face-and-performance/
+
+#web #design #censure #internet #font-face
+
+
+-- <http://seenthis.net/messages/63252>
