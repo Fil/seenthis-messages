@@ -1,0 +1,29 @@
+Message-ID: <508ea5dc-f070-44ea-a79b-49383ec72d4a@seenthis.net>
+Date: Tue, 08 May 2012 20:41:45 +0200
+From: Fil <fil@localhost>
+Subject: Utiliser Dropbox pour partager des images et documents sur Seenthis
+ J'installe une image =?UTF-8?Q?n=27importe=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/68347
+
+Utiliser #Dropbox pour #partager des #images et #documents sur #Seenthis
+
+J'installe une image n'importe où dans ma dropbox
+
+J'active le menu "get link" sur le document à partager
+https://www.dropbox.com/s/ft5p0n9x4g45a7w/1.%20get%20link.png
+
+j'attends si besoin que le document ait été uploadé dans le #nuage
+https://www.dropbox.com/s/v5ce3flvi9xx9z5/2.%20dropbox%20please%20wait.png
+
+et quand mon image est enfin uploadée…
+https://www.dropbox.com/s/catw7oqc3cwvq7h/3.%20ok%20image%20upload%C3%A9e.png
+… je peux partager l'URL sur seenthis
+
+(bien que dropbox fournisse une page présentant l'image,  #seenthis récupère l'image directement ; s'il s'agit d'un fichier #PDF ou bureautique quelconque, par contre, seenthis laissera un lien vers le viewer de dropbox - lui-même plutôt bien foutu)
+
+#seenthis_documentation
+
+
+-- <http://seenthis.net/messages/68347>
