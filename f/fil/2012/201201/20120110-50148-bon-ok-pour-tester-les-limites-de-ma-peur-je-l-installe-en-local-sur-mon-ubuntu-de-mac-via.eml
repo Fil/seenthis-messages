@@ -1,0 +1,17 @@
+Message-ID: <508ea5d2-7434-48f4-8a21-49387830f7a6@seenthis.net>
+Date: Tue, 10 Jan 2012 07:51:23 +0100
+From: Fil <fil@localhost>
+Subject: Bon OK, pour tester les limites de ma peur je l'installe en local sur mon
+ ubuntu de Mac =?UTF-8?Q?=28via=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/50124#message50148
+In-Reply-To: <508ea5d2-5ca0-44cf-b5d2-49389c4e5259@seenthis.net>\References: <508ea5d2-5ca0-44cf-b5d2-49389c4e5259@seenthis.net>
+
+Bon OK, pour tester les limites de ma peur je l'installe en local sur mon ubuntu de Mac (via #virtualbox)…
+Principal défaut d'#unoconv : c'est d'une lenteur effroyable :)  1'30" lorsque je n'ai pas lancé de serveur, et 40" avec un serveur déjà lancé… (le document se convertit en 1" avec la librairie post-office).
+Je crois donc qu'il va falloir passer en mode "batch" si on veut pouvoir traiter plusieurs fichiers d'un coup.
+À noter déjà : avec le #libreoffice moderne il n'y a plus besoin d'un package "#headless" -- c'est désormais une option de soffice.bin
+
+
+-- <http://seenthis.net/messages/50124#message50148>
