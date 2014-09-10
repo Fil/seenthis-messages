@@ -1,0 +1,17 @@
+Message-ID: <50e006ae-911c-471c-b524-0fc56ee96bf0@seenthis.net>
+Date: Sun, 30 Dec 2012 10:17:34 +0100
+From: Fil <fil@localhost>
+Subject: =?UTF-8?Q?R=C3=A9parer=20le=20charset=20d=27une=20base=20SPIP?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/104881
+
+Réparer le #charset d'une base #SPIP
+http://zzz.rezo.net/Reparer-le-charset-d-une-base-SPIP.html
+
+❝Quand on part d’une vieille installation de SPIP il arrive qu’on enregistre les données en utf-8 dans des tables déclarées en latin1. Ca ne gêne pas le fonctionnement normal du site, mais ça empêche d’utiliser proprement les outils #MySQL, de la ligne de commande (qui affiche des « Ã© » à la place des « é ») au moteur de recherche FULLTEXT, qui ne retrouve pas les mots accentués. Méthode de nettoyage.❞
+
+(Ce qui permet donc à #seenthis d'afficher désormais les bons résultats de recherche pour les mots accentués.)
+
+
+-- <http://seenthis.net/messages/104881>
