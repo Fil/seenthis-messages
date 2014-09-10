@@ -1,0 +1,37 @@
+Message-ID: <508ea5e0-d664-4566-8798-4938636d78be@seenthis.net>
+Date: Sat, 16 Jun 2012 10:33:59 +0200
+From: Fil <fil@localhost>
+Subject: G'MIC : GREYC's Magic Image Converter | GIMP Plugin
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/76516
+
+G'MIC : GREYC's Magic Image Converter | #GIMP Plugin
+http://registry.gimp.org/node/13469
+
+❝The G'MIC plug-in for GIMP proposes a set of various #filters to apply on your #images, including artistic effects, image denoising and enhancement algorithms, 3D renderers, etc.. It is a quite large plug-in, integrating a lot of different effects.❞
+
+#fourier #fft
+
+installation chez moi : prendre la version OS X Lion dans http://sourceforge.net/projects/gmic/files/ et taper ensuite la commande
+> cp /Volumes/Macgmic/gmic_gimp ~/Library/Application\ Support/Gimp/plug-ins/
+
+exemple de résultat : estomper la trame d'impression d'une #photo trouvée sur une carte postale ; voici le classique avant/après
+https://www.dropbox.com/s/lql4je6hki0clop/fft-avant-apres.png
+
+la méthode : on fait une transformation de Fourier de l'image (Filtres > G'Mic > Spectral Handling > Fourier), ce qui nous donne une image de son spectre, avec une grosse étoile au centre et quelques petites étoiles autour de la grosse.
+https://www.dropbox.com/s/8ild9ra81qnj80z/fft.png
+
+Avec une brosse noire, on masque alors les petites étoiles
+https://www.dropbox.com/s/dor4uj37hkmb9gp/fft-mask.png
+
+puis on applique la transformation de Fourier inverse, ce qui nous fait revenir à l'image d'origine, sans la trame.
+
+
+Une autre option géniale de ce plugin consiste à séparer la couleur et les formes, pour pouvoir les travailler séparément.
+(Filtres > G'Mic > Spectral Handling > Frequency Splitting) 
+
+
+
+
+-- <http://seenthis.net/messages/76516>
