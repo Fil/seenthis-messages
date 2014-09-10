@@ -1,0 +1,21 @@
+Message-ID: <50c849a9-dbd8-4fb7-9a91-4bd0ac40252b@seenthis.net>
+Date: Wed, 12 Dec 2012 10:08:57 +0100
+From: Fil <fil@localhost>
+Subject: ImageMagick convert -crop
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/102354
+
+#ImageMagick convert -crop
+http://www.imagemagick.org/Usage/crop/#crop_tile
+
+❝convert rose: -crop 20x20 \
+          -set filename:tile "%[fx:page.x/20+1]_%[fx:page.y/20+1]" \
+          +repage +adjoin "rose_tile_%[filename:tile].gif"❞
+
+#leaflet #cartographie #images pour un projet artistique de @mad_meg
+https://www.dropbox.com/s/lg4vbkmvax4ba97/tile_18_17.png
+
+
+
+-- <http://seenthis.net/messages/102354>
