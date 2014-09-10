@@ -1,0 +1,18 @@
+Message-ID: <50cf4f32-9cbc-46f6-b087-6434237750ea@seenthis.net>
+Date: Mon, 17 Dec 2012 17:58:26 +0100
+From: Fil <fil@localhost>
+Subject: Adminer - Database management in single PHP file
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/103253
+
+Adminer - Database management in single PHP file
+http://www.adminer.org/en/
+
+❝#Adminer is a full-featured database management tool written in PHP. Conversely to #phpMyAdmin, it consist of a single file ready to deploy to the target server. #mysql #sqlite ❞
+
+# git clone git://adminer.git.sourceforge.net/gitroot/adminer/adminer
+via @suske
+
+
+-- <http://seenthis.net/messages/103253>
