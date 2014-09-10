@@ -1,0 +1,20 @@
+Message-ID: <508ea5dc-e5d4-4563-bb89-49386dd28e9b@seenthis.net>
+Date: Tue, 08 May 2012 12:10:59 +0200
+From: Fil <fil@localhost>
+Subject: Avec l'extension pwntter on peut stocker tous les tweets
+ =?UTF-8?Q?re=C3=A7us=20ou=20track=C3=A9s=20dans=20une=20table=20SQL=20=3A?=
+ =?UTF-8?Q?=20=E2=9D=9D=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/66086#message68280
+In-Reply-To: <508ea5db-071c-42f6-9877-49380d717969@seenthis.net>\References: <508ea5db-071c-42f6-9877-49380d717969@seenthis.net>
+
+Avec l'extension pwntter on peut stocker tous les tweets reçus ou trackés dans une table SQL :
+❝# ttytter -exts=$HOME/bin/pwntter/pwntter.pl -hold -daemon❞
+
+Cette commande est contrôlée régulièrement (cronjob) et (avec @lazuly) on l'a renommée ttydaemon afin de ne pas confondre la version lancée en cli et celle lancée en background.
+
+Il existe dans pwntter un outil de stats basique (pas forcément hyper utile) : pwntterstats
+
+
+-- <http://seenthis.net/messages/66086#message68280>
