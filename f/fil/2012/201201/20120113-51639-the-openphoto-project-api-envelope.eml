@@ -1,0 +1,22 @@
+Message-ID: <508ea5d3-5758-4c74-8d72-493805a0bbce@seenthis.net>
+Date: Fri, 13 Jan 2012 21:34:01 +0100
+From: Fil <fil@localhost>
+Subject: The OpenPhoto Project | API | envelope
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/51639
+
+The #OpenPhoto Project | API | envelope
+http://theopenphotoproject.org/documentation/api/Envelope
+
+❝Every #API returns a #JSON response adhering to the following format.
+{
+  message: (string),
+  code: (int),
+  result: (mixed)
+}
+❞
+
+
+
+-- <http://seenthis.net/messages/51639>
