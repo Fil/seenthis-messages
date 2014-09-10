@@ -1,0 +1,30 @@
+Message-ID: <508ea5d7-1200-44a4-88c9-493880e70adc@seenthis.net>
+Date: Fri, 16 Mar 2012 08:53:56 +0100
+From: Fil <fil@localhost>
+Subject: Picturefill pour des img responsive
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/61146
+
+Picturefill pour des img responsive
+http://scottjehl.com/picturefill/
+
+<picture alt="A giant stone face at The Bayon temple in Angkor Thom, Cambodia">
+    <!-- smallest size first - no @media qualifier -->
+    <source src="img_m.jpg">
+    <!-- medium size - send to viewport widths 400px wide and up -->
+    <source src="img.jpg" media="(min-width: 400px)">
+    <!-- large size - send to viewport widths 800px wide and up -->
+    <source src="img_z.jpg" media="(min-width: 800px)">
+    <!-- extra large size - send to viewport widths 1000px wide and up -->
+    <source src="img_b.jpg" media="(min-width: 1000px)">
+    <!-- extra large size - send to viewport widths 1300px wide and up -->
+    <source src="img_o.jpg" media="(min-width: 1200px)">
+    <!-- Fallback content for non-JS or non-media-query-supporting browsers. Same img src as the initial, unqualified source element. -->
+    <noscript><img src="img_m.jpg" alt="A giant stone face at The Bayon temple in Angkor Thom, Cambodia"></noscript>
+</picture>
+
+#web #responsive #javascript #polyfill #html5
+
+
+-- <http://seenthis.net/messages/61146>
