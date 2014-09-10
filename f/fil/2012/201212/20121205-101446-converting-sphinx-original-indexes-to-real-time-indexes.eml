@@ -1,0 +1,17 @@
+Message-ID: <50bfc3c5-062c-4709-af44-70fd92726246@seenthis.net>
+Date: Wed, 05 Dec 2012 22:59:33 +0100
+From: Fil <fil@localhost>
+Subject: Converting Sphinx original indexes to real-time indexes
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/101446
+
+Converting #Sphinx original indexes to real-time indexes
+http://www.ivinco.com/blog/converting-sphinx-original-indexes-to-real-time-indexes/
+
+❝If you are using the Sphinx server with many indexes and you decide to move to real-time indexes then this article is for you (...) convert original indexes to real-time using the new Sphinx command ATTACH INDEX.❞
+
+(ça marche)
+
+
+-- <http://seenthis.net/messages/101446>
