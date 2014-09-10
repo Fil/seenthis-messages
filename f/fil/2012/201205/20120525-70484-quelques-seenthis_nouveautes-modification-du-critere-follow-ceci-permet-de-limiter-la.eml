@@ -1,0 +1,42 @@
+Message-ID: <508ea5dd-8bb8-4dee-a673-49382c5245d0@seenthis.net>
+Date: Fri, 25 May 2012 12:58:40 +0200
+From: Fil <fil@localhost>
+Subject: Quelques =?UTF-8?Q?seenthis=5Fnouveaut=C3=A9s=20=3A=20-=20Modification=20?=
+ =?UTF-8?Q?du=20crit=C3=A8re=20follow=20=E2=9D=9DCeci=20permet=20de=20limi?=
+ =?UTF-8?Q?ter=20la=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/70484
+
+Quelques #seenthis_nouveautés :
+
+- Modification du critère {follow}
+❝Ceci permet de limiter la recherche (plein texte, dans les tags ou dans les sites) aux messages d'un autre utilisateur :
+<http://seenthis.net/tags/sant%C3%A9?follow=fil>
+<http://seenthis.net/tags/sant%C3%A9?follow=odilon>
+A noter : comme toujours, les messages "de quelqu'un" comprennent aussi ceux qu'il a mis en favori.
+❞
+
+- Ajout d'un début d'#API de recherche d'URL :
+
+❝Pour demander à #seenthis s'il connaît une URL donnée, on envoie son md5, par exemple :
+<http://seenthis.net/api/url/1ec6743420344d1c1c6845d23a707033> 
+On reçoit alors un JSON qui rappelle l'URL (en clair), et donne la liste des identifiants de messages. (A noter : le passage par md5 permet de maintenir la confidentialité des URLs qu'on teste. C'est aussi comme ça que procède delicious.)❞
+
+
+- Correction du bug des chevrons
+❝ce qui permet de rentrer dans la norme #RFC 3986, annexe C ; le bug avait été signalé par @stephane :
+<http://seenthis.net/messages/56237>❞
+
+
+- Notifications inutiles :
+❝éviter d'envoyer un mail de notification d'une nouvelle réponse à l'auteur de la-dite réponse❞
+
+
+- Copier/coller :
+❝les URLs d'images peuvent être récupérées par copier/coller❞
+
+
+
+
+-- <http://seenthis.net/messages/70484>
