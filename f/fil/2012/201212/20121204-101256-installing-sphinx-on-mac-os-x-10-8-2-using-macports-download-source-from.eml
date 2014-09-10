@@ -1,0 +1,35 @@
+Message-ID: <50be7dbc-8da0-48fd-a89f-331170782685@seenthis.net>
+Date: Tue, 04 Dec 2012 23:48:28 +0100
+From: Fil <fil@localhost>
+Subject: Installing sphinx on Mac OS X 10.8.2 (using macports) - download source from
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/101256
+
+Installing sphinx on Mac OS X 10.8.2 (using macports)
+
+- download source from
+   http://www.sphinxsearch.com/downloads.html
+ou
+#   svn co http://sphinxsearch.googlecode.com/svn/trunk/
+
+- port install mysql55 (not *mysql-devel* which is deprecated)
+
+- modify two paths in the configure file: /usr/local becomes /opt/local/
+❝
+# hack to locate expat/iconv in /usr/local on BSD systems
+CPPFLAGS="$CPPFLAGS -I/opt/local/include"
+LIBS="$LIBS -L/opt/local/lib"
+❞
+
+- then the usual:
+# ./configure --with-mysql=/opt/local/lib/mysql55/ --with-libstemmer –enable-id64
+# sudo make install
+
+for configure options:
+# ./configure -help
+
+#mac #sphinx #install_tips
+
+
+-- <http://seenthis.net/messages/101256>
