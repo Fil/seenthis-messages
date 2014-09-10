@@ -1,0 +1,19 @@
+Message-ID: <508ea5d8-f0ac-409b-87f1-49385e00a4af@seenthis.net>
+Date: Mon, 02 Apr 2012 16:31:42 +0200
+From: Fil <fil@localhost>
+Subject: Espaces fines en CSS =?UTF-8?Q?=E2=80=94=20styling=20spaces=20in=20CSS?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/63585
+
+#Espaces fines en CSS — styling spaces in #CSS
+http://www.cs.tut.fi/~jkorpela/styles/spaces.html
+
+❝Since the width property does not apply to small or span elements (or any “non-replaced inline elements”), we set display: inline-block for them.❞
+
+hélas cette approche pète sous Chrome et perd le caractère non-breaking (!!) ; du coup je me rabats sur un SMALL.fine avec la définition suivante (qui me déplaît fortement par son caractère négatif) :
+
+.fine { letter-spacing: -0.13em; }
+
+
+-- <http://seenthis.net/messages/63585>
