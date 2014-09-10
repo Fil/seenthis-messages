@@ -1,0 +1,19 @@
+Message-ID: <508ea5d2-ec54-4e19-ab89-4938636d78be@seenthis.net>
+Date: Tue, 10 Jan 2012 12:18:31 +0100
+From: Fil <fil@localhost>
+Subject: bon alors sur mon vrai serveur que des bonnes surprises : * ce n'est pas du
+ tout lent * si on =?UTF-8?Q?envoie=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/50124#message50195
+In-Reply-To: <508ea5d2-5ca0-44cf-b5d2-49389c4e5259@seenthis.net>\References: <508ea5d2-5ca0-44cf-b5d2-49389c4e5259@seenthis.net>
+
+bon alors sur mon vrai serveur que des bonnes surprises:
+* ce n'est pas du tout lent
+* si on envoie juste une image, ça crée un article avec l'image en embed
+* ça convertit tout y compris des fichiers excel
+
+petit bug : le œ ne passe pas (corrigé)
+
+
+-- <http://seenthis.net/messages/50124#message50195>
