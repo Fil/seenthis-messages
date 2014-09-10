@@ -1,0 +1,20 @@
+Message-ID: <508ea5dd-d954-4c51-bf4c-49380a1cbd70@seenthis.net>
+Date: Thu, 24 May 2012 23:34:45 +0200
+From: Fil <fil@localhost>
+Subject: j'ai =?UTF-8?Q?test=C3=A9=20ce=20patch=20sur=20le=20plugin=20seenthis=5Fa?=
+ =?UTF-8?Q?utoembed=20=28sur=20la=20zone=29=20mais=20l=27embed=20fourni=20?=
+ =?UTF-8?Q?par=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/62067#message70429
+In-Reply-To: <508ea5d7-9438-488b-89f1-493882df1f2c@seenthis.net>\References: <508ea5d7-9438-488b-89f1-493882df1f2c@seenthis.net>
+
+j'ai testé ce patch sur le plugin seenthis_autoembed (sur la zone) mais l'embed fourni par official.fm a l'air pété, ça me donne un player avec une liste vide
+
+Index: autoembed/stubs.php
+-    'url-match' => 'http://(www\.)?official\.fm/tracks/([0-9]+)',
++    'url-match' => 'http://(www\.)?official\.fm/(tracks|playlists)/([0-9]+)',
+
+
+
+-- <http://seenthis.net/messages/62067#message70429>
