@@ -1,0 +1,19 @@
+Message-ID: <50ab4a07-6e04-470c-895d-4c27f252538e@seenthis.net>
+Date: Tue, 20 Nov 2012 10:14:47 +0100
+From: Fil <fil@localhost>
+Subject: [dredd] surveille les listes de rezo
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/98332
+
+[dredd] surveille les listes de @rezo
+http://dredd.rezo.net/
+
+DREDD c'est un script (programmé par @archiloque) qui surveille nos #mailing-listes, et nous alerte quand il y a un problème ; il fait aussi de jolies courbes, comme on peut voir :
+https://www.dropbox.com/s/6rquhiqfced7por/dredd.png
+
+la dent de scie correspond à un blocage d'origine indéterminée hier entre ~15h10 et ~21h30
+
+
+
+-- <http://seenthis.net/messages/98332>
