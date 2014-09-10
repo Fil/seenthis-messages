@@ -1,0 +1,21 @@
+Message-ID: <50b33822-e8b0-4a8c-a3d1-1bae647e170e@seenthis.net>
+Date: Mon, 26 Nov 2012 10:36:34 +0100
+From: Fil <fil@localhost>
+Subject: =?UTF-8?Q?tr=C3=A8s=20bonne=20id=C3=A9e=20stephane=2C=20d=27autant=20que?=
+ =?UTF-8?Q?=20si=20l=27on=20canonicalise=20en=20utilisant=20canonical=2C?=
+ =?UTF-8?Q?=20=C3=A7a=20marcherait=2C=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/98732#message99445
+In-Reply-To: <50ade080-0d80-44bb-8772-7c6684abfe10@seenthis.net>\References: <50ade080-0d80-44bb-8772-7c6684abfe10@seenthis.net>
+
+très bonne idée @stephane, d'autant que si l'on canonicalise en utilisant canonical, ça marcherait, pour le cas cité puisque les deux pages référencées indiquent le même:
+
+<link rel="canonical" href="http ://www.nytimes.com/2012/11/18/opinion/sunday/you-cant-say-that-on-the-internet.html?pagewanted=all">
+
+(ainsi que pour tous les SPIP modernes d'ailleurs)
+
+#seenthis_todo
+
+
+-- <http://seenthis.net/messages/98732#message99445>
