@@ -1,0 +1,17 @@
+Message-ID: <508ea5dd-86f0-4861-b0e9-493804c73542@seenthis.net>
+Date: Fri, 25 May 2012 22:17:48 +0200
+From: Fil <fil@localhost>
+Subject: =?UTF-8?Q?=C3=A7a=20a=20l=27air=20chouette=2C=20mais=20son=20exemple=20PH?=
+ =?UTF-8?Q?P=20ouvre=20en=20grand=20les=20injections=20SQL=2E=20Dans=20le?=
+ =?UTF-8?Q?=20plugin=20SPIP=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/70550#message70572
+In-Reply-To: <508ea5dd-a8b0-4589-88ed-4938878acec5@seenthis.net>\References: <508ea5dd-a8b0-4589-88ed-4938878acec5@seenthis.net>
+
+ça a l'air chouette, mais son exemple PHP ouvre en grand les injections SQL.
+
+Dans le plugin SPIP "sélecteur générique" je crois qu'on utilise l'autocomplete de jQuery.UI http://jqueryui.com/demos/autocomplete/ ; mais ça demande pas mal de code, alors que les exemples que tu donnes ont l'air plus simples.
+
+
+-- <http://seenthis.net/messages/70550#message70572>
