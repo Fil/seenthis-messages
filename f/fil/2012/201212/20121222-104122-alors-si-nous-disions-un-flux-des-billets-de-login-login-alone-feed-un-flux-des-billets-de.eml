@@ -1,0 +1,24 @@
+Message-ID: <50d62a8b-f43c-4494-a07b-278762ed4e1f@seenthis.net>
+Date: Sat, 22 Dec 2012 22:47:55 +0100
+From: Fil <fil@localhost>
+Subject: alors si nous disions : - Un flux des billets de $LOGIN $LOGIN/alone/feed -
+ Un flux des billets =?UTF-8?Q?de=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/104023#message104122
+In-Reply-To: <50d4da79-c4cc-419b-a4dc-36e05aabe84e@seenthis.net>\References: <50d4da79-c4cc-419b-a4dc-36e05aabe84e@seenthis.net>
+
+alors si nous disions :
+- Un flux des billets de $LOGIN
+     $LOGIN/alone/feed
+- Un flux des billets de $LOGIN + favoris
+     $LOGIN/feed
+- Un flux des billets suivis par $LOGIN
+     $LOGIN/follow/feed
+- tout ce que $LOGIN publie / favorise / suit
+     $LOGIN/all/feed
+
+(note : je profite que @seenthis est en vacances pour définir des fonctionnalités dans son dos)
+
+
+-- <http://seenthis.net/messages/104023#message104122>
