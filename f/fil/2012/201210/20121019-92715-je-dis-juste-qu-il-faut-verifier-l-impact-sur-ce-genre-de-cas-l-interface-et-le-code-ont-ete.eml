@@ -1,0 +1,15 @@
+Message-ID: <508ea5e9-4ac4-4b78-8be1-4938a64e4a51@seenthis.net>
+Date: Fri, 19 Oct 2012 17:38:34 +0200
+From: Fil <fil@localhost>
+Subject: je dis juste qu'il faut =?UTF-8?Q?v=C3=A9rifier=20l=27impact=20sur=20ce?=
+ =?UTF-8?Q?=20genre=20de=20cas=E2=80=A6=20l=27interface=20et=20le=20code?=
+ =?UTF-8?Q?=20ont=20=C3=A9t=C3=A9=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/92654#message92715
+In-Reply-To: <508ea5e9-3870-4eda-8862-49389c4e5259@seenthis.net>\References: <508ea5e9-3870-4eda-8862-49389c4e5259@seenthis.net>
+
+je dis juste qu'il faut vérifier l'impact sur ce genre de cas… l'interface et le code ont été pensés autour des rubriques, donc partout on appelle une rubrique ; que se passe-t-til quand elle n'existe pas
+
+
+-- <http://seenthis.net/messages/92654#message92715>
