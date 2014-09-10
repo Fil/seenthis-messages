@@ -1,0 +1,47 @@
+Message-ID: <50cb4661-0404-4d42-ac07-7c5a3a6c61ab@seenthis.net>
+Date: Fri, 14 Dec 2012 16:31:45 +0100
+From: Fil <fil@localhost>
+Subject: Installer l'extension php-tidy sur MAMP / OSX 10.8.2 en suivant les
+ instructions ici et =?UTF-8?Q?l=C3=A0?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/102870
+
+Installer l'extension #php-tidy sur #MAMP / OSX 10.8.2
+
+en suivant les instructions ici et là
+http://lucor.github.com/2010/07/how-enable-the-php-tidy-extension-for-mamp/
+http://allensservices.com/php-tidy-on-mamp
+http://projectbee.org/blog/archive/download-php-tidy-extension-for-mac-os-x/
+
+j'ai fini par faire ce qui suit :
+
+télécharger le source de PHP 5.3.6 (la version fournie par MAMP), la compiler avec les bonnes options :
+
+❝#  bbedit ext/iconv/iconv.c 
+#  bbedit ext/tidy/tidy.c 
+#  MACOSX_DEPLOYMENT_TARGET=10.6
+#  CFLAGS="-arch i386 -arch x86_64 -g -Os -pipe -no-cpp-precomp"
+#  CCFLAGS="-arch i386 -arch x86_64 -g -Os -pipe"CXXFLAGS="-arch i386 -arch x86_64 -g -Os -pipe"
+#  LDFLAGS="-arch i386 -arch x86_64 -bind_at_load"
+#  export CFLAGS CXXFLAGS LDFLAGS CCFLAGS MACOSX_DEPLOYMENT_TARGET
+#  LIBS=-lresolv ./configure --with-tidy=shared && make
+❞
+
+et là j'ai le précieux tidy.so valable pour mon architecture
+
+ensuite je l'installe dans les répertoires qui vont bien, et configure (“extension=tidy.so”) les différents php.ini pour qu'ils les prennent en compte.
+
+❝#  cp modules/tidy.so /Applications/MAMP//bin/php/php5.3.6/lib/php/extensions/no-debug-non-zts-20090626/
+#  sudo cp modules/tidy.so /usr/lib/php/extensions/no-debug-non-zts-20090626/tidy.so
+# bbedit /Applications/MAMP//bin/php/php5.2.17/conf/php.ini
+❞
+
+Si vous voulez échapper à la partie compilation, voici le module #tidy  compilé :
+https://www.dropbox.com/s/axy0x8ca4oc7jlo/tidy.so
+
+(et ici pour la version 5.4.10 de MAMP/PHP :
+http://blog.code-line.de/php-tidy-extension-for-mac )
+
+
+-- <http://seenthis.net/messages/102870>
