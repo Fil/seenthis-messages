@@ -1,0 +1,15 @@
+Message-ID: <508ea5e5-3224-44f2-b320-493815ea7e89@seenthis.net>
+Date: Thu, 13 Sep 2012 10:50:24 +0200
+From: Fil <fil@localhost>
+Subject: oui, =?UTF-8?Q?=C3=A7a=20arrive=20=3B=20en=20fait=20la=20seenthis=5FAPI?=
+ =?UTF-8?Q?=20est=20insuffisante=20car=20elle=20ne=20permet=20pas=20=28enc?=
+ =?UTF-8?Q?ore=29=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/86595#message86618
+In-Reply-To: <508ea5e5-f9a8-482e-8fa8-49384f2def64@seenthis.net>\References: <508ea5e5-f9a8-482e-8fa8-49384f2def64@seenthis.net>
+
+oui, ça arrive ; en fait la #seenthis_API est insuffisante car elle ne permet pas (encore) d'attribuer un guid à un message qu'on crée (ce qui lui permettrait de rejeter la création d'un nouveau message portant le même guid)
+
+
+-- <http://seenthis.net/messages/86595#message86618>
