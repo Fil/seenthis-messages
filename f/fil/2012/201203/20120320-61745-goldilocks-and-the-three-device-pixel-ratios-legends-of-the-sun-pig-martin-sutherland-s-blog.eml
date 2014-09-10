@@ -1,0 +1,17 @@
+Message-ID: <508ea5d7-5ec8-47c5-99fb-49387bf67f5e@seenthis.net>
+Date: Tue, 20 Mar 2012 11:16:47 +0100
+From: Fil <fil@localhost>
+Subject: Goldilocks and the Three Device Pixel Ratios [Legends of the Sun Pig - Martin Sutherland's Blog]
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/61745
+
+Goldilocks and the Three Device Pixel Ratios [Legends of the Sun Pig - Martin Sutherland's Blog]
+http://sunpig.com/martin/archives/2012/03/18/goldilocks-and-the-three-device-pixel-ratios.html
+
+❝Using one device pixel for each CSS pixel of a 480px-wide layout on a 4.5cm-wide screen would result in some very small text. So there is a zoom factor to adjust the way the page is rendered.❞
+http://sunpig.com/martin/images/2012/03-viewport-opera-device-width-small.jpg
+#web #mobile #css
+
+
+-- <http://seenthis.net/messages/61745>
