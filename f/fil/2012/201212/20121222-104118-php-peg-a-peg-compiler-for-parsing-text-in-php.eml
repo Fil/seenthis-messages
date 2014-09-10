@@ -1,0 +1,22 @@
+Message-ID: <50d62909-7ce8-4d45-b8dd-278448402b7d@seenthis.net>
+Date: Sat, 22 Dec 2012 22:41:29 +0100
+From: Fil <fil@localhost>
+Subject: PHP PEG - A PEG compiler for parsing text in PHP
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/104118
+
+PHP #PEG - A PEG compiler for #parsing text in #PHP
+https://github.com/maetl/php-peg
+
+❝This is a Parsing Expression Grammar compiler for PHP. PEG parsers are an alternative to other CFG grammars that includes both tokenization and lexing in a single top down grammar. For a basic overview of the subject, see http://en.wikipedia.org/wiki/Parsing_expression_grammar❞
+
+comme je suis curieux je me suis dit que j'allais essayer de regarder ce qu'il existe comme compilateurs de parser/phraseur/lexer aboutissant à un code PHP — j'ai trouvé celui-là, qui est très simple à installer et à utiliser, mais aussi deux autres, avec lesquels j'ai eu moins de chance :
+https://github.com/jgm/peg-markdown/
+et
+https://github.com/wez/lemon-php
+
+Avec php-peg je suis parvenu à faire une espèce de parser capable (plus ou moins) de traiter les textes de seenthis. C'est encourageant. Est-ce éventuellement utile ? Un intérêt pourrait être d'être capable d'assembler les textes seenthis ailleurs que dans PHP, mais pourquoi pas en javascript ou en python (ou en C si ça vous chante).
+
+
+-- <http://seenthis.net/messages/104118>
