@@ -1,0 +1,21 @@
+Message-ID: <508ea5dd-2cac-4e3c-a9a1-4938876d76e8@seenthis.net>
+Date: Fri, 25 May 2012 22:38:59 +0200
+From: Fil <fil@localhost>
+Subject: The Art of Computer Typography
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/70576
+
+The Art of Computer Typography
+http://37signals.com/svn/posts/3183-the-art-of-computer-typography
+
+❝While fonts in other systems consist of outlined letterforms Metafont “draws” each letter, simulating the broad nib pen and the actual strokes you’d use to write them by hand. The resulting fonts are not only beautiful but their construction allows for greater control  (...)
+I’m impressed by Knuth’s refusal to accept the status quo. When it didn’t meet his standards, he simply made something better.❞
+
+http://s3.amazonaws.com/37assets/svn/929-svn-glyphs.gif
+à gauche, Metafont (wéééé), à droite, postscript (bouuuu)
+
+#TeX #typographie #art
+
+
+-- <http://seenthis.net/messages/70576>
