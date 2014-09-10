@@ -1,0 +1,18 @@
+Message-ID: <508ea5d7-6bb8-427d-b5d9-4938ac40252b@seenthis.net>
+Date: Fri, 23 Mar 2012 09:25:42 +0100
+From: Fil <fil@localhost>
+Subject: j'ai =?UTF-8?Q?adapt=C3=A9=20le=20script=20d=27import=20de=20wikipedia?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/62040#message62190
+In-Reply-To: <508ea5d7-2640-4039-a903-49386e0ed3dd@seenthis.net>\References: <508ea5d7-2640-4039-a903-49386e0ed3dd@seenthis.net>
+
+j'ai adapté le script d'import de wikipedia http://radimrehurek.com/gensim/wiki.html en script d'import d'une sauvegarde seenthis
+https://gist.github.com/2168253/d61cf9988ac81b6a06df69a1305e3d5e92363940
+
+à utiliser comme suit :
+python corpus-seenthis.py ~/Sites/seen.xml.gz seen
+
+
+
+-- <http://seenthis.net/messages/62040#message62190>
