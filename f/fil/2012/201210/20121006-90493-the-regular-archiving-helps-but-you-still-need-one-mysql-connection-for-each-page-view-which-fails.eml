@@ -1,0 +1,14 @@
+Message-ID: <508ea5e7-d4e4-4253-9aea-4938b2487bda@seenthis.net>
+Date: Sat, 06 Oct 2012 13:10:16 +0200
+From: Fil <fil@localhost>
+Subject: the regular archiving helps but you still need one MySQL connection for
+ each page view, which =?UTF-8?Q?fails=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/90371#message90493
+In-Reply-To: <508ea5e7-9c08-4765-b5fc-4938022ac7fa@seenthis.net>\References: <508ea5e7-9c08-4765-b5fc-4938022ac7fa@seenthis.net>
+
+the regular archiving helps but you still need one MySQL connection for each page view, which fails if the SQL server has something else to do, and takes up a lot more resources than if it first memorized the hits info in memcache, then at some point (every few seconds) copied it in batch into MySQL.
+
+
+-- <http://seenthis.net/messages/90371#message90493>
