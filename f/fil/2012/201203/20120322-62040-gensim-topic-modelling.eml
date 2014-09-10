@@ -1,0 +1,23 @@
+Message-ID: <508ea5d7-2640-4039-a903-49386e0ed3dd@seenthis.net>
+Date: Thu, 22 Mar 2012 09:41:26 +0100
+From: Fil <fil@localhost>
+Subject: gensim - topic modelling
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/62040
+
+#gensim - topic modelling
+http://radimrehurek.com/gensim/about.html
+
+❝gensim is the most robust, efficient and hassle-free piece of software to realize unsupervised semantic modelling from plain text❞
+
+il semble qu'avec ce #logiciel_libre on puisse extraire des choses intéressantes de corpus de textes ; j'ai essayé de l'installer mais hélas je suis trop nul en python et fortran pour arriver au bout…
+
+à titre d'exemple voici un rendu graphique (avec D3.js) de “concepts” extraits de wikipédia : 
+http://similarityapi.appspot.com/graph/?title=cyborg
+http://similarityapi.appspot.com/graph/?title=emotion
+
+#texte #traitement #concepts
+
+
+-- <http://seenthis.net/messages/62040>
