@@ -1,0 +1,27 @@
+Message-ID: <508ea5d6-b19c-4540-9219-493806818b1b@seenthis.net>
+Date: Tue, 21 Feb 2012 23:12:03 +0100
+From: Fil <fil@localhost>
+Subject: Using Jekyll and GitHub Pages for Our Site | Development Seed
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/58167
+
+Using Jekyll and GitHub Pages for Our Site | Development Seed
+http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/
+
+faire un site (statique) sur github et qui a de la gueule, c'est possible :
+
+❝#GitHub pages is a set of conventions and tools that make it easy to get files from a GitHub repository onto the web. All you do is
+
+Create a git repo with your user/org name like developmentseed.github.com.
+Add some files to it like index.html and an image.
+Push your changes.
+Your website is now live at developmentseed.github.com.
+Jekyll is, according to its wiki,
+
+… a simple, blog aware, static site generator. It takes a template directory (representing the raw form of a website), runs it through Textile or Markdown and Liquid converters, and spits out a complete, static website suitable for serving with Apache or your favorite web server.❞
+
+#git #cms #templates #jekyll
+
+
+-- <http://seenthis.net/messages/58167>
