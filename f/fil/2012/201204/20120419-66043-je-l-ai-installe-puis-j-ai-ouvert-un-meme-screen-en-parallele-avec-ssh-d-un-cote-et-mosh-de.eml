@@ -1,0 +1,15 @@
+Message-ID: <508ea5db-1eb8-4996-ae5f-49388edb3ac3@seenthis.net>
+Date: Thu, 19 Apr 2012 22:08:37 +0200
+From: Fil <fil@localhost>
+Subject: Je l'ai =?UTF-8?Q?install=C3=A9=2C=20puis=20j=27ai=20ouvert=20un=20m?=
+ =?UTF-8?Q?=C3=AAme=20screen=20en=20parall=C3=A8le=20avec=20ssh=20d=27un?=
+ =?UTF-8?Q?=20c=C3=B4t=C3=A9=20et=20mosh=20de=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/64813#message66043
+In-Reply-To: <508ea5da-402c-45ea-9703-493837716161@seenthis.net>\References: <508ea5da-402c-45ea-9703-493837716161@seenthis.net>
+
+Je l'ai installé, puis j'ai ouvert un même screen en parallèle avec ssh d'un côté et mosh de l'autre, j'ai fermé l'ordi et je suis parti faire mes courses. En revenant, j'ai rouvert le biniou : #ssh était pété, mais la connexion #mosh était vivante.
+
+
+-- <http://seenthis.net/messages/64813#message66043>
