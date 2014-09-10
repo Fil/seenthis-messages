@@ -1,0 +1,19 @@
+Message-ID: <508ea5e1-db00-48b9-829b-4938b838bf09@seenthis.net>
+Date: Wed, 11 Jul 2012 18:38:00 +0200
+From: Fil <fil@localhost>
+Subject: =?UTF-8?Q?L=27id=C3=A9e=20d=27une=20pagination=20/=20collapse=20par=20dat?=
+ =?UTF-8?Q?e=20me=20semble=20super=2E=20=C3=87a=20demanderait=20quelques?=
+ =?UTF-8?Q?=20raccords=20de=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/78788#message78826
+In-Reply-To: <508ea5e1-1dd4-4fd2-afcd-4938ff4f5344@seenthis.net>\References: <508ea5e1-1dd4-4fd2-afcd-4938ff4f5344@seenthis.net>
+
+L'idée d'une pagination / collapse par date me semble super. Ça demanderait quelques raccords de programmation, mais en effet ça offrirait une vue *pratique*.
+
+L'infinite scroll façon facebook c'est pas mal sans plus. Ca pose un petit problème récurrent : quand on recharge la page (ou qu'on y revient après l'avoir quittée) ; il suffit sans doute d'ajouter un hash dans l'url pour s'en sortir. On ne peut pas tester facilement car personne ne s'est encore cassé le cul pour le programmer dans #SPIP :) Ce serait sans doute valable de le faire, ne serait-ce que pour voir ce que ça donne, mais la suggestion d'un groupage par date me semble meilleure. 
+
+#seenthis_todo
+
+
+-- <http://seenthis.net/messages/78788#message78826>
