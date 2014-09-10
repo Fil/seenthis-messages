@@ -1,0 +1,23 @@
+Message-ID: <508ea5d7-9c1c-404d-b5e0-4938022ac7fa@seenthis.net>
+Date: Fri, 23 Mar 2012 08:11:04 +0100
+From: Fil <fil@localhost>
+Subject: cool sur linux, j'ai fini par m'en sortir avec apt-get install python-scipy
+ et sur mac je sais =?UTF-8?Q?pas=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/62040#message62181
+In-Reply-To: <508ea5d7-2640-4039-a903-49386e0ed3dd@seenthis.net>\References: <508ea5d7-2640-4039-a903-49386e0ed3dd@seenthis.net>
+
+cool
+
+sur linux, j'ai fini par m'en sortir avec apt-get install python-scipy
+
+et sur mac je sais pas ce que j'ai fait (!!) mais ça a fini par passer avec ce script
+https://raw.github.com/fonnesbeck/ScipySuperpack/master/install_superpack.sh
+
+la première page de tutorial passe sur les deux installations
+
+maintenant il faut que je trouve comment lui faire manger une base de données :)
+
+
+-- <http://seenthis.net/messages/62040#message62181>
