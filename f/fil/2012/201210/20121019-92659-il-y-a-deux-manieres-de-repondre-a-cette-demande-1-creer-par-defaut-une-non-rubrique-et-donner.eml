@@ -1,0 +1,19 @@
+Message-ID: <508ea5e9-83a8-4a90-af53-4938e37f1845@seenthis.net>
+Date: Fri, 19 Oct 2012 12:10:22 +0200
+From: Fil <fil@localhost>
+Subject: il y a deux =?UTF-8?Q?mani=C3=A8res=20de=20r=C3=A9pondre=20=C3=A0=20cette?=
+ =?UTF-8?Q?=20demande=20=3A=20=31=2E=20cr=C3=A9er=20par=20d=C3=A9faut=20un?=
+ =?UTF-8?Q?e=20=20non-rubrique=20=20et=20donner=E2=80=A6?=
+Status: published
+List-Id: <fil.seenthis.net>
+List-Archive: http://seenthis.net/messages/92654#message92659
+In-Reply-To: <508ea5e9-3870-4eda-8862-49389c4e5259@seenthis.net>\References: <508ea5e9-3870-4eda-8862-49389c4e5259@seenthis.net>
+
+il y a deux manières de répondre à cette demande :
+1. créer par défaut une "non-rubrique" et donner son id_rubrique aux articles "non rubriqués" ; et faire éventuellement disparaître la mention de rubrique de l'interface (sans toucher au code sous-jacent)
+2. tout recoder
+
+bon courage
+
+
+-- <http://seenthis.net/messages/92654#message92659>
